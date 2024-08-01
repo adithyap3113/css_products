@@ -17,9 +17,18 @@ button:hover{
 h1:hover{
     background-color: rgb(220, 20, 193);
 }
-h2:hover{
+h2:hover {
     background-color: rgb(147, 20, 220);
-}  
+} 
+
+/* h2:hover + h3{
+    background-color: rgb(147, 20, 220);
+}   */
+
+/* h2:hover ~ h3{
+    background-color: rgb(147, 20, 220);
+}  */
+  
  /* main >div {
     color: aqua;
     background-color: black;  
