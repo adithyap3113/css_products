@@ -1,0 +1,33 @@
+/* main section div div  {
+    color: aqua;
+    background-color: black; 
+    
+} 
+    */
+button{
+    padding: 10px;
+}
+button:hover{
+    background-color: brown;
+    color: azure;
+}
+ p:hover{
+    background-color: crimson;
+} 
+h1:hover{
+    background-color: rgb(220, 20, 193);
+}
+h2:hover{
+    background-color: rgb(147, 20, 220);
+}  
+ /* main >div {
+    color: aqua;
+    background-color: black;  
+ } */
+
+   #btn-clr{
+    padding: 10px;
+    margin-top: 7px;
+    background-color: black;
+    color:aliceblue ;
+ }   
